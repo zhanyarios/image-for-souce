@@ -1,0 +1,42 @@
+{
+    "datalist": [
+        {
+            "namefile": "Esign",
+            "name": "ESign",
+            "iconn": "https://www.kurdcinama.com/Wenekan_KS/4321212872023_IMG_4604.jpeg",
+            "imdb": "",
+            "Ch": "",
+            "Ch2": "",
+            "Ch3": "",
+            "Ch4": "",
+            "date": "",
+            "time": "",
+            "dis": "",
+            "ipa": "",
+            "vidmoly2": "",
+            "googled": "",
+            "googled2": "",
+            "movies": "./movies/Esign.php",
+            "moviesdel": "./Esign.php"
+        },
+        {
+            "namefile": "snapchatFALCOn",
+            "name": "Video Star",
+            "iconn": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeaDjsehc0MrTGbBcT49etjiKlOAlJQbjf9hepZlJ1GJ5B2MW2",
+            "imdb": "",
+            "Ch": "",
+            "Ch2": "",
+            "Ch3": "",
+            "Ch4": "",
+            "date": "",
+            "time": "",
+            "dis": "",
+            "ipa": "",
+            "vidmoly2": "",
+            "googled": "",
+            "googled2": "",
+            "movies": "./movies/snapchatFALCOn.php",
+            "moviesdel": "./snapchatFALCOn.php"
+        }
+    ]
+}
